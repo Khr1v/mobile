@@ -1,0 +1,7 @@
+{
+  "name": "mobile_course",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

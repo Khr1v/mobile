@@ -4,7 +4,10 @@
 2. установить вс код 
 
 [мой репозиторий](https://github.com/Khr1v/mobile)  
-[вторая ссылка](https://www.google.com/search?q=vscode)
+[документация  ионика](https://test-bc740.web.app/developing/starting)
 
 
 контрл K и только V 
+
+скачали ионик старт нпм инсталл(запуск приложенрия )
+посмотрели струкруту фрейморвка 
