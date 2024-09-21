@@ -8,14 +8,21 @@
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">{{ folder }}</ion-title>
-    </ion-toolbar>
-  </ion-header>
+
+  <ion-card>
+    <ion-card-header>
+      <ion-card-title>What do you like to do?</ion-card-title>
+      <ion-card-subtitle>What do you do when you have free time ?</ion-card-subtitle>
+    </ion-card-header>
+  
+
+  </ion-card>
+  <ion-input label="first:"></ion-input>
+  <ion-input label="second:"></ion-input>
+  <ion-input label="third:"></ion-input>
+  <ion-input label="fourth:"></ion-input>
 
   <div id="container">
-    <strong class="capitalize">{{ folder }}</strong>
-    <p>Explore <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+    <ion-button>ТЫкай </ion-button>
   </div>
 </ion-content>
